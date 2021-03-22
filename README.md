@@ -1,6 +1,6 @@
 ## About
 
-pyGDrive3 simplifies some common Google Drive API requests, wrapping them up using
+pyGDrive3 simplifies some common Google Drive API v3 requests, wrapping them up using
 familiar Python object construction.
 
 ## Usage
